@@ -1,0 +1,15 @@
+Exercise 1: There is not any error in this programe.
+
+Exercise 2: There is a run time error as we are trying to divide 100 by 0
+Solution: we can run the programe if we run it by dividing 100 by 1.
+
+Exercise 3: There is not any error in this programe.
+
+Exercise 4: There is a syntex error as variable "a" has not been assigned value.
+Solution: int a=5,b=15;
+
+Exercize 5: There is a syntex error as variable "c" has not been initialized.
+Solution: 	int a=15;
+		int b=16;
+		int c=a+b;
+now we can print the value of c.
